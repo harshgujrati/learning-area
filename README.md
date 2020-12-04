@@ -5,5 +5,6 @@ Most of the code examples shown and discussed in the Learning Area can be found 
 
 The one exception is the [Server-side website programming](https://developer.mozilla.org/en-US/docs/Learn/Server-side) examples — we broke these out into separate repos to make them easier to deal with:
 
-* https://github.com/mdn/express-locallibrary-tutorial
-* https://github.com/mdn/django-locallibrary-tutorial
+ ## local-library
+* [express](https://github.com/mdn/express-locallibrary-tutorial)<br>
+* [django](https://github.com/mdn/django-locallibrary-tutorial)
